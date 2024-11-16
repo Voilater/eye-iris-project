@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your project. It includes step-by-step instructions for setting up and running the code:
-
----
 
 # ATM with Iris Recognition Authentication
 
